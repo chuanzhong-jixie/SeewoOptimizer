@@ -1,4 +1,4 @@
-# 陈叔叔希沃优化工具 (SeewoOptimizer)
+# 陈叔叔希沃优化工具 (SeewoOptimizer)（此仓库部分克隆于原开发者，完整支持请查看原开发者仓库）
 
 **PEACE & LOVE | 川中计算机协会 荣誉出品**
 
